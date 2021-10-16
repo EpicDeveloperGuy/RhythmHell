@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-VisualizerSurvival/[Ll]ibrary/
-VisualizerSurvival/[Tt]emp/
-VisualizerSurvival/[Oo]bj/
-VisualizerSurvival/[Bb]uild/
-VisualizerSurvival/[Bb]uilds/
-VisualizerSurvival/[Ll]ogs/
-VisualizerSurvival/[Mm]emoryCaptures/
+VisualizerSurvivial/[Ll]ibrary/
+VisualizerSurvivial/[Tt]emp/
+VisualizerSurvivial/[Oo]bj/
+VisualizerSurvivial/[Bb]uild/
+VisualizerSurvivial/[Bb]uilds/
+VisualizerSurvivial/[Ll]ogs/
+VisualizerSurvivial/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
